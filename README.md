@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yash Patel</h1>
 <h3 align="center">A passionate MERN stack developer from India.</h3>
 
-- 🌱 I’m currently learning _Node JS, React_
+- 🌱 I’m currently learning _Node JS, React_,c++
+- 🧑🏻‍💻Have keen intrest in competitve programming
 
-- 💬 Ask me about _React, HTML, CSS , Firebase _
+- 💬 Ask me about c++,_React, HTML, CSS , Firebase _
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
