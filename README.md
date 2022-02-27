@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN stack developer from India.</h3>
 
 - 🌱 I’m currently learning _Node JS, React_,c++
-- 🧑🏻‍💻Have keen intrest in competitve programming
+- 🧑🏻‍💻Have keen intrest in competitve programming(3 star on codechef max rating-1755)
 
 - 💬 Ask me about c++,_React, HTML, CSS , Firebase _
 
