@@ -31,7 +31,7 @@
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a>
 </p>
 <a href="https://www.langchain.com/" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/110640580?s=200&v=4" alt="langchain" width="40" height="40" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVqGhJ7F7U7bf0PUwG3TmOCIoKwVZoDxMwLg&s" alt="langchain" width="40" height="40" />
     </a>
     <a href="https://haystack.deepset.ai/" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/49791540?s=200&v=4" alt="haystack" width="40" height="40" />
